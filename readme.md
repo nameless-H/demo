@@ -1,3 +1,3 @@
 # test
 
-lorem
+lorem ipsum
